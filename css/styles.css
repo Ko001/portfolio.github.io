@@ -99,10 +99,20 @@ p {
   flex-wrap: wrap;
 }
 
+.language-background {
+  background-color: white;
+  border-radius: 50%;
+  margin: 0 auto;
+  height: 7rem;
+  width: 7rem;
+  display: flex;
+  align-items: center;
+}
+
 .language {
   font-size: 5rem;
   padding: 7px 7px;
-  margin: 0 auto;
+  margin: auto;
 }
 
 
